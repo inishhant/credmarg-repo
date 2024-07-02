@@ -1,0 +1,123 @@
+[
+  {
+    "_id": "8b4eec41aa160804e254",
+    "vendor_id": 2,
+    "name": "Aniket2",
+    "email": "aniket22@gmail.com"
+  },
+  {
+    "_id": "4f2ead97280e032bc988",
+    "vendor_id": 2,
+    "name": "Aniket3",
+    "email": "aniket332@gmail.com"
+  },
+  {
+    "_id": "85317e901bfd5a031b6b",
+    "vendor_id": 10,
+    "name": "Rahul",
+    "email": "rahul@gmail.com"
+  },
+  {
+    "_id": "85317e901bfd5a031b3d",
+    "name": "Rahul",
+    "email": "rahul@gmail.com"
+  },
+  {
+    "_id": "305bf3571b934e594709",
+    "type": "vendor",
+    "name": "NISHANT",
+    "email": "nishant.nk.02@gmail.com",
+    "upi": "7343847389@ybl"
+  },
+  {
+    "_id": "36f7a7818f63fa0d337b",
+    "type": "employee",
+    "name": "NISHANT",
+    "email": "nishant.nk@gmail.com",
+    "designation": "SDE",
+    "ctc": 500000
+  },
+  {
+    "_id": "4acb5fc99f945e8c2886",
+    "type": "employee",
+    "name": "Mihika",
+    "email": "mihika@gmail.com",
+    "designation": "SDE",
+    "ctc": 1200000
+  },
+  {
+    "_id": "be483338189023532d0a",
+    "type": "employee",
+    "name": "muskan",
+    "email": "muskan@gmail.com",
+    "designation": "SDE",
+    "ctc": 1200000
+  },
+  {
+    "_id": "0b0db3545a01908d74ac",
+    "type": "vendor",
+    "name": "Kshitij",
+    "email": "kshitij@gmail.com",
+    "upi": "ehfb@ekrjbg"
+  },
+  {
+    "_id": "c8b5b782235e97d19713",
+    "type": "vendor",
+    "name": "Kshitijwef3efeewf",
+    "email": "kshitijwefwef@gmail.com",
+    "upi": "ehfb@ekrjbgefe"
+  },
+  {
+    "_id": "2248d82afaaa291f8d49",
+    "type": "vendor",
+    "name": "Nishant Kumar Devbanshi",
+    "email": "fkewhfgkuwehguhwu@iueriuguierhu.com",
+    "upi": "eiuhfgur@efigeur"
+  },
+  {
+    "_id": "d337b631545d17277ada",
+    "type": "employee",
+    "name": "Nishant Kumar Devbanshi",
+    "email": "jjj@kjkj.com",
+    "designation": "SDE",
+    "ctc": 500000
+  },
+  {
+    "_id": "ec7bd04c75e5be330806",
+    "type": "employee",
+    "name": "MSSS",
+    "email": "ms@ms.com",
+    "designation": "wjefb",
+    "ctc": 34534534
+  },
+  {
+    "_id": "0f994b6f2e51a45eaca5",
+    "type": "employee",
+    "name": "ehfuerhu",
+    "email": "iweuhfiuerhiueh@hrufghoierthgi.com",
+    "designation": "feu",
+    "ctc": 4353453
+  },
+  {
+    "_id": "e73cbce5f0f8247c72ee",
+    "type": "vendor",
+    "name": "kwefwkeh",
+    "email": "jkrgherhglihril@kfjehgihrtjhiojrtihj.com",
+    "upi": "erjfgewrg@gregiueriuh"
+  },
+  {
+    "_id": "9a217d416d89366278ca",
+    "type": "employee",
+    "name": "sdvjdvkjhwjkvhk",
+    "email": "hdwkuvherkuhih@heiovheir.com",
+    "designation": "ewhfweufh",
+    "ctc": 36452734
+  },
+  {
+    "_id": "5ab89139f9eca49b2a40",
+    "type": "vendor",
+    "name": "dbwkfbwejb",
+    "email": "wkehfkwehfwjeij@hweirjfirjfirjgirjgijr.com",
+    "upi": "wefbjweb@jbefjb"
+  }
+]
